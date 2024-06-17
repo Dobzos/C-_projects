@@ -1,1 +1,2 @@
-Ez a projekt az Obejktumelvű Programozás beadandóm volt.
+# Theme
+Here are all the c# projects I've made.
