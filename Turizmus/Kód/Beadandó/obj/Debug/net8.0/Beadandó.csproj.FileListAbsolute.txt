@@ -1,0 +1,14 @@
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.exe
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.deps.json
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.runtimeconfig.json
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.dll
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\bin\Debug\net8.0\Beadandó.pdb
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.AssemblyInfoInputs.cache
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.AssemblyInfo.cs
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.csproj.CoreCompileInputs.cache
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.dll
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\refint\Beadandó.dll
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.pdb
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\Beadandó.genruntimeconfig.cache
+D:\Egyetem\Felev2\C#\Beadandó\Beadandó\obj\Debug\net8.0\ref\Beadandó.dll
